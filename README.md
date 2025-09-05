@@ -6,7 +6,7 @@ The project combines **graph algorithms** and **XML parsing** to simulate scient
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 1. **Genome Clustering**  
    - Parses genomes and their links from XML input.  
    - Groups genomes into clusters using a graph structure.  
@@ -19,7 +19,6 @@ The project combines **graph algorithms** and **XML parsing** to simulate scient
    - For genomes in the same cluster, finds the minimum adaptation path using **Dijkstra’s algorithm**.  
    - Returns `-1` if genomes are in different clusters.  
 
----
 
 ## 📂 File Structure
 - `Main.java` – Entry point of the program  
